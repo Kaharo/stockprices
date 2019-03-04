@@ -1,0 +1,22 @@
+{
+  "name": "stockprices",
+  "version": "1.0.0",
+  "description": "Stock prices follow up (serverless at first)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaharo/stockprices.git"
+  },
+  "author": "Kaharo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaharo/stockprices/issues"
+  },
+  "homepage": "https://github.com/Kaharo/stockprices#readme",
+  "dependencies": {
+    "gentelella": "^1.4.0"
+  }
+}
